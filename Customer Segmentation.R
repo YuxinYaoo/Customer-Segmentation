@@ -5,7 +5,7 @@ library(tidyr)
 library(knitr)
 library(rmarkdown)
 
-df_data<-read.csv("/Users/yaoyuxin/desktop/project/ecommerce_data.csv")
+df_data<-read.csv("ecommerce_data.csv")
 
 df_data <- df_data %>% 
   mutate(Quantity = replace(Quantity, Quantity<=0, NA),
