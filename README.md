@@ -62,23 +62,6 @@ The following libraries are required:
 - `knitr`
 - `rmarkdown`
 
-## How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/ecommerce-analysis.git
-   cd ecommerce-analysis
-   ```
-
-2. Install required libraries in R:
-   ```R
-   install.packages(c("data.table", "dplyr", "ggplot2", "tidyr", "knitr", "rmarkdown"))
-   ```
-
-3. Place your dataset in the project directory and update the `read.csv` line in the script with the correct filename.
-
-4. Run the R script in your preferred environment (RStudio recommended).
-
-5. View visualizations and analysis outputs.
 
 ---
 
