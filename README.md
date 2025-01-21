@@ -9,7 +9,6 @@ This project performs data analysis and customer segmentation using an e-commerc
 - [K-means Clustering](#k-means-clustering)
 - [Visualizations](#visualizations)
 - [Requirements](#requirements)
-- [How to Run](#how-to-run)
 
 ## Overview
 The goal of this project is to understand customer behavior, identify distinct customer segments, and analyze sales trends. By leveraging RFM (Recency, Frequency, Monetary) analysis and K-means clustering, we segment customers into groups to inform marketing strategies. Additionally, we visualize sales trends and product performance to identify areas for growth.
