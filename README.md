@@ -1,4 +1,4 @@
-# E-commerce Data Analysis and Customer Segmentation
+# Customer Segmentation
 
 This project performs data analysis and customer segmentation using an e-commerce dataset. The analysis includes data cleaning, RFM segmentation, K-means clustering, and visualizations to explore sales trends and product performance. Below is a detailed explanation of the workflow and purpose of the project.
 
